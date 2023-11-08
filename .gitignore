@@ -277,3 +277,6 @@ examples/*/*.xml
 *.VC.db
 
 .vs/
+*.vcxproj
+*.filters
+*.user
